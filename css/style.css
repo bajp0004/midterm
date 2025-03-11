@@ -1,0 +1,40 @@
+.vesper-libre-regular {
+  font-family: "Vesper Libre", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.vesper-libre-medium {
+  font-family: "Vesper Libre", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.vesper-libre-bold {
+  font-family: "Vesper Libre", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.vesper-libre-black {
+  font-family: "Vesper Libre", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+
+
+
+/* // <weight>: Use a value from 300 to 800
+// <width>: Use a value from 75 to 100
+// <uniquifier>: Use a unique and descriptive class name  */
+
+.open-sans-<uniquifier> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" <width>;
+} 
